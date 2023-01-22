@@ -35,10 +35,10 @@ You can find Languages and Tools in this Account and much more!
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKINKAZAR&layout=compact&langs_count=16&theme=react"/>
  </div>
 </p>
- 
+<p>
  <div align="center">
 <img src="https://komarev.com/ghpvc/?username=AKINKAZAR&&style=flat-square" align="center" />
-</div>
+</div> </p>
  
 
 <!--
