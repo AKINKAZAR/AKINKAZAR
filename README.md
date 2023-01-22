@@ -27,8 +27,14 @@ You can find Languages and Tools in this Account and much more!
 
 <img align="left" alt="Selenium" width="30px" height="30" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" />
 <img align="left" alt="Gauge" width="30px" height="30" src="https://amitsarkar.tech/assets/images/svg-b&w/gauge.svg" />
-
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AKINKAZAR&show_icons=true&locale=en&layout=compact" alt="akınkazar" /></p>
+ 
+<p align="left">
+<a href="https://github.com/AKINKAZAR">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=AKINKAZAR&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> 
+ <img height="110em" src="https://user-images.githubusercontent.com/74311713/129813126-5c620ff2-cc3b-47a2-b419-974708ceb5fe.png"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKINKAZAR&layout=compact&langs_count=16&theme=react"/>
+ </div>
+</p>
  
 
 <!--
