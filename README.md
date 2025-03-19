@@ -8,7 +8,7 @@
 
 A Software QA Engineer in living in Turkey!
 
-* I’m currently learning Backend techs
+* I’m currently learning Frontend techs
 
 ### Connect with me:
 
